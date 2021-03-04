@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(FJSP_onGA.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  FJSPOnGA.cpp
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(300): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(527): warning C4018: “<”: 有符号/无符号不匹配
+  test.cpp
+c:\users\28307\source\repos\fjsponga\fjsponga\test.cpp(16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(86): warning C4172: 返回局部变量或临时变量的地址: flag
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(96): warning C4172: 返回局部变量或临时变量的地址: flag
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(88): warning C4172: 返回局部变量或临时变量的地址: flag
+c:\users\28307\source\repos\fjsponga\fjsponga\fjsponga.cpp(98): warning C4172: 返回局部变量或临时变量的地址: flag
+  FJSPonGA.vcxproj -> C:\Users\28307\source\repos\FJSPonGA\Debug\FJSPOnGA.exe
